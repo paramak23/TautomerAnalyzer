@@ -1,5 +1,7 @@
 Mastering Molecular Identity: Tautomer Standardization with RDKit
+
 🧪 Project Overview
+
 In medicinal chemistry, a single chemical entity can exist as multiple tautomers—structural isomers in dynamic equilibrium. Inconsistent SMILES representations of these tautomers can lead to redundant data and "noisy" results in machine learning (QSAR) and virtual screening.
 
 This project provides a robust pipeline to:

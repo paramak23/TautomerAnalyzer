@@ -66,7 +66,8 @@ Part 3: Molecular Fingerprinting (ECFP4) and Tanimoto Similarity.
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Author: [Parameswaran Kandasamy/https://github.com/paramak23/TautomerAnalyzer/tree/main]
+Author: Parameswaran Kandasamy/https://github.com/paramak23/TautomerAnalyzer/tree/main
+
 
 Field: Cheminformatics / Medicinal Chemistry
 
